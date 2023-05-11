@@ -1,4 +1,4 @@
-## Field to Value in Cookiecutter
+## Field to Value in Cookiecutter (in main branch. not nested)
 
 project_name: {{ cookiecutter.project_name }}
 
